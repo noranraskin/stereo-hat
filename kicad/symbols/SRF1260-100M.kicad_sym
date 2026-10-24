@@ -45,7 +45,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" "file:///Users/noran/Documents/KiCad/9.0/projects/stereo/symbols/SRF1260-100M.kicad_sym"
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

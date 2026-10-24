@@ -42,7 +42,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "file:///Users/noran/Documents/KiCad/9.0/projects/stereo/datasheets/tas5756m.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/gpn/tas5756m"
 			(at 46.99 -194.92 0)
 			(show_name no)
 			(do_not_autoplace no)
