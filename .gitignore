@@ -1,0 +1,72 @@
+# KiCad .gitignore
+
+# Backups and autosaves
+*-backups/
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.sch-bak
+*.pcb-bak
+_autosave-*
+*-autosave*
+*.autosave
+*~
+.#*
+\#*#
+
+# Local, per-user project settings
+*.kicad_prl
+*.kicad_prl.lock
+fp-info-cache
+~*.lck
+*.lck
+
+# Netlists and legacy generated files
+*.net
+*.xml
+*-cache.lib
+*-cache.dcm
+*-rescue.lib
+*-rescue.dcm
+*-rescue.kicad_sym
+*.pro-bak
+*.kicad_pro-bak
+
+# Generated library tables from fp-lib-table backups (keep fp-lib-table / sym-lib-table)
+fp-lib-table.bak
+sym-lib-table.bak
+
+# Fabrication outputs (comment these out if you want to commit them)
+# gerber/
+# *.gbr
+# *.drl
+# *.gbrjob
+# *.zip
+
+# Generated reports
+*.rpt
+*.erc
+*.drc
+
+# 3D render / plot scratch output (keep final images in docs/)
+*.log
+*.tmp
+*.cache
+
+# KiBot output
+kibot_out/
+output/
+
+# Archived project snapshots
+*.zip.bak
+*.tar.gz
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo

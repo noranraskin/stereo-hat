@@ -1,0 +1,8 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TAS5756M") (type "KiCad") (uri "${KIPRJMOD}/symbols/TAS5756MDCAR.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS54232") (type "KiCad") (uri "${KIPRJMOD}/symbols/TPS54232.kicad_sym") (options "") (descr ""))
+	(lib (name "SRF1260-100M") (type "KiCad") (uri "${KIPRJMOD}/symbols/SRF1260-100M.kicad_sym") (options "") (descr ""))
+	(lib (name "DC-005-A200") (type "KiCad") (uri "${KIPRJMOD}/symbols/DC-005-A200.kicad_sym") (options "") (descr ""))
+	(lib (name "CONN3_2601-1103_WAG") (type "KiCad") (uri "${KIPRJMOD}/symbols/CONN3_2601-1103_WAG.kicad_sym") (options "") (descr ""))
+)
