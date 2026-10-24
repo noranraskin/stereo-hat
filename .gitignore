@@ -1,5 +1,7 @@
 # KiCad .gitignore
 
+production/
+
 # Backups and autosaves
 *-backups/
 *.bak
